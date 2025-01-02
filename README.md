@@ -13,4 +13,4 @@
         { varsIgnorePattern: "^React$" }, // Ignores unused 'React' specifically
       ],
 
-      
+8.Install react-router dom
