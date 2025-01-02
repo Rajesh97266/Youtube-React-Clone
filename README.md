@@ -14,3 +14,6 @@
       ],
 
 8.Install react-router dom
+9.Setup Homepage and video page routing .
+10.Added colors to tailwind css.
+11.Added grid to tailwind css.
